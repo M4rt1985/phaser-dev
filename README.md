@@ -1,4 +1,4 @@
 # phaser-dev
 Phaser Development
-  Breakout Using Phaser
-  Snake Using Phaser
+Breakout Using Phaser
+Snake Using Phaser
